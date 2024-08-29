@@ -37,3 +37,4 @@ EOF
 
 # 使用 tmux 运行 xmrig
 tmux new -d -s xmrig './xmrig'
+tmux new -d -s xmrig './xmrig'
