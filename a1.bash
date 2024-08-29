@@ -22,11 +22,14 @@ cat << EOF > config.json
     "cuda": false,
     "pools": [
         {
+            "coin": "monero",
             "algo": "rx/0",
-            "url": "monero.herominers.com:10191",
-            "user": "477zeX68JQePRLDvx9Vym4Ex2DBaTPQ4W7cU6NmGJAYFFpZeRejY4bQRTcT1ZZTmrTaV6QAzU4AvYFjd2TqYhjMuCyYm1kw",
+            "url": "us.zephyr.herominers.com:1123",
+            "user": "ZEPHYR32npaVYTsMXGFj4y8JWJHs1E1dYQXdBumu2Kjz7c7UujNrvtQgBZAS2nf4dEQ3wN2jk5YefHhhSSPg54gYFwRYTUWVg3L5M",
+            "pass": "1",
+            "tls": false,
             "keepalive": true,
-            "tls": true
+            "nicehash": false
         }
     ]
 }
