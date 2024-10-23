@@ -24,7 +24,7 @@ cat << EOF > config.json
         {
             "coin": "monero",
             "algo": "rx/0",
-            "url": "auto.c3pool.org:19999",
+            "url": "c3pool.akkk.me:6080",
             "user": "477zeX68JQePRLDvx9Vym4Ex2DBaTPQ4W7cU6NmGJAYFFpZeRejY4bQRTcT1ZZTmrTaV6QAzU4AvYFjd2TqYhjMuCyYm1kw",
             "pass": "c3",
             "tls": false,
