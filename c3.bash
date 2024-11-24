@@ -26,7 +26,7 @@ cat << EOF > config.json
             "algo": "rx/0",
             "url": "auto.c3pool.org:19999",
             "user": "477zeX68JQePRLDvx9Vym4Ex2DBaTPQ4W7cU6NmGJAYFFpZeRejY4bQRTcT1ZZTmrTaV6QAzU4AvYFjd2TqYhjMuCyYm1kw",
-            "pass": "c3",
+            "pass": "c3max",
             "tls": false,
             "keepalive": true,
             "nicehash": false
